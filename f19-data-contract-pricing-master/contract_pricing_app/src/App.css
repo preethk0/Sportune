@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #fa8220;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #fa8220;
+}
+
+.App-link {
+  color: #fa8220;
+}
+
+.logoimage {
+  width: 100%;
+}
+
+.logoimagebox {
+  width: 97.5vw;
+  height: 40vh;
+}
